@@ -2,8 +2,6 @@ import Link from 'next/link'
 import Index from '../pages'
 import styled from 'styled-components'
 
-const pages = ['Home','About Me', 'My Projects']
-
 const NavContainer = styled.nav`
     background: black;
     color: #eee;
