@@ -11,6 +11,7 @@ const NavContainer = styled.nav`
     display: flex;
     position: sticky;
     align-items: center;
+    border-radius: 15px;
 
 
 
